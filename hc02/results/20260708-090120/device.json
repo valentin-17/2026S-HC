@@ -1,0 +1,12 @@
+{
+  "compute_capability": [
+    7,
+    5
+  ],
+  "gpu_name": "NVIDIA GeForce RTX 2080 SUPER",
+  "max_blocks_per_sm": 16,
+  "max_threads_per_block": 1024,
+  "max_threads_per_sm": 1024,
+  "sm_count": 48,
+  "warp_size": 32
+}
